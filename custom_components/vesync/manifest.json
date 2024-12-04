@@ -22,7 +22,7 @@
     "pyvesync"
   ],
   "requirements": [
-    "pyvesync==2.1.12"
+    "pyvesync==2.1.13"
   ],
-  "version": "1.3.3"
+  "version": "1.3.4"
 }
